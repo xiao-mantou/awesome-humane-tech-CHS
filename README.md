@@ -28,7 +28,7 @@
 - [包容性](#inclusiveness)
 - [认知](#awareness)
 - [审查](#censorship)
-- [未维护]](#unmaintained)
+- [未维护](#unmaintained)
 - [相关的awesomeness](#related-awesomeness)
 - [贡献](#contributing)
 - [协议](#license)
