@@ -1,4 +1,4 @@
-# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
+# 超棒的人道技术Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
 
 <br/><br/>
 
@@ -6,36 +6,36 @@
 
 <br/>
 
-## Contents
+## 目录/内容
 
-- [About this list](#about-this-list)
-- [Community](#community)
-- [Ethics](#ethics)
-- [Security](#security)
-- [Privacy](#privacy)
-- [Tracking](#tracking)
-- [Consent](#consent)
-- [Analytics](#analytics)
-- [Blocklists](#blocklists)
-- [Social networks](#social-networks)
-- [Freedom](#freedom)
-- [Geolocation](#geolocation)
-- [Voice Assistants](#voice-assistants)
-- [Internet of Things](#internet-of-things)
-- [Gamification](#gamification)
-- [Health](#health)
-- [Mindfulness](#mindfulness)
-- [Inclusiveness](#inclusiveness)
-- [Awareness](#awareness)
-- [Censorship](#censorship)
-- [Unmaintained](#unmaintained)
-- [Related awesomeness](#related-awesomeness)
-- [Contributing](#contributing)
-- [License](#license)
+- [关于这个列表](#about-this-list)
+- [社区](#community)
+- [准则](#ethics)
+- [安全](#security)
+- [隐私](#privacy)
+- [跟踪](#tracking)
+- [同意](#consent)
+- [分析工具](#analytics)
+- [屏蔽规则](#blocklists)
+- [社交网络](#social-networks)
+- [自由](#freedom)
+- [地理位置](#geolocation)
+- [语音助手](#voice-assistants)
+- [物联网](#internet-of-things)
+- [游戏化](#gamification)
+- [健康](#health)
+- [正念](#mindfulness)
+- [包容性](#inclusiveness)
+- [认知](#awareness)
+- [审查](#censorship)
+- [未维护]](#unmaintained)
+- [相关的awesomeness](#related-awesomeness)
+- [贡献](#contributing)
+- [协议](#license)
 
 ## About this list
 
-Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech.com/problem/), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com).
+科技和社交媒体对我们的社会有着重大的影响. 当创新技术的发明改善着我们的生活, 这些趋势伴随着对负面影响认识的增长, 例如 social media addiction, 精神健康问题, 和 social erosion. 为了解决 [这些问题](https://humanetech.com/problem/), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com).
 
 
 This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](contributing.md) before sending your PR's.
@@ -71,7 +71,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 ## Security
 
-- [NoScript Security Suite](https://noscript.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hackademix/noscript) - Mozilla-based browser plugin to only allow active content from white-listed websites.
+- [NoScript 安全套装](https://noscript.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hackademix/noscript) - Mozilla-based browser plugin to only allow active content from white-listed websites.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many major websites, making your browsing more secure.
 - [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
 - [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
@@ -80,11 +80,11 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 ## Privacy
 
-- [privacytools.io](https://privacytools.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/privacytoolsIO/privacytools.io) - Knowledge and tools to protect your privacy against global mass surveillance.
-- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
-- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
-- [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/signalapp) - Signal is a messaging app for simple private communication with friends.
-- [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - A browser extension that helps identify what sensitive information (PII) is shared / leaked to 3rd-parties.
+- [privacytools.io](https://privacytools.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/privacytoolsIO/privacytools.io) - 保护你的隐私对抗全球大规模监控的知识和工具.
+- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - 一个精选的尊重隐私的服务和软件列表.
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - 无谷歌集成的 Chromium, 增强隐私, 可控, 透明
+- [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/signalapp) - Signal 是一个与朋友简单私人交流的通讯应用程序.
+- [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - 一个浏览器扩展帮助你识别什么敏感数据(PII)被第三方分享/泄露了.
 - [Webbkoll](https://webbkoll.dataskydd.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy.
 - [PrivacyScore](https://privacyscore.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
 - [ghacks user.js](https://github.com/ghacksuserjs/ghacks-user.js) - A user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
